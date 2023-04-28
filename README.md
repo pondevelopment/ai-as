@@ -2,7 +2,7 @@
 
 The AI-AS (AI-assisted) logo is a visual representation of the collaboration between humans and artificial intelligence (AI). This repository contains the SVG code for the AI-AS logo, which can be used in various contexts to signify AI-human collaboration in projects, learning activities, and content creation.
 
-![AI-AS Logo](ai-as-logo.svg)
+![AI-AS Logo](ai-as.svg)
 
 ## Table of Contents
 
