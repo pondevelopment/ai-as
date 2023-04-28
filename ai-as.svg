@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Icon: Circle (human) and hexagon (AI) -->
+  <circle cx="30" cy="50" r="20" fill="#007acc" />
+  <polygon points="55,30 75,30 85,50 75,70 55,70 45,50" fill="#ff9900" />
+  <!-- Connection between shapes -->
+  <rect x="45" y="45" width="10" height="10" fill="#7f7f7f" />
+  <!-- Text: AI-AS -->
+  <text x="27" y="80" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#000000">AI-AS</text>
+</svg>
